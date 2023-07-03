@@ -1,3 +1,3 @@
 # simple-streaming-system
 
-A distributed streaming system built with Apache Kafka and Python
+A distributed video streaming system built with Apache Kafka and Python
